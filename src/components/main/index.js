@@ -62,10 +62,10 @@ export default function Main() {
                     <Items>Knee Pads</Items>
                     <Items>Tactical Mittens</Items>
                     <Items>First Aid Kits</Items>
-
                     <Items>
                       <Bold>* Walkie-Talkies</Bold>
                     </Items>
+                    <Items>Shipping Boxes</Items>
                   </ItemList>
                 </ItemCol>
 
@@ -83,6 +83,7 @@ export default function Main() {
                     <Items>Nuts</Items>
                     <Items>Protein Bars</Items>
                     <Items>Nutritious Snacks</Items>
+                    <Items>Shipping Supplies</Items>
                   </ItemList>
                 </ItemCol>
               </Split>
@@ -92,7 +93,7 @@ export default function Main() {
               please bring or send your donation to:
               <CenterAddress>
                 Leasing Office
-                <br/>
+                <br />
                 Attn: Ukraine Aid
                 <br />
                 Everett at 11000
