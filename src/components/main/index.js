@@ -92,11 +92,13 @@ export default function Main() {
               please bring your donation to:
               <CenterAddress>
                 Leasing Office
+                <br/>
+                Attn: Ukraine Aid
                 <br />
                 Everett at 11000
                 <br />
                 16th Ave SE <br />
-                Everett, 98208
+                Everett, WA 98208
               </CenterAddress>
               If you would like to purchase and send these items you can do so
               though this <br />
@@ -108,8 +110,8 @@ export default function Main() {
               </a>
               <StoryText>
                 Please send your purchased Amazon items to the Leasing Office in
-                Everett.Thank you very much for your help and please share this
-                website with friends and family and on social media. Your help
+                Everett. Thank you very much for your help and please share this
+                website with friends, family and on social media. Your help
                 makes a difference! Thank you!
                 <br />
               </StoryText>
