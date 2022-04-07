@@ -32,7 +32,10 @@ export const Navbar = styled.div`
   justify-content: space-between;
   background-color: #4166f5;
   border-bottom: yellow 5px solid;
-  padding: 2%;
+  padding: 1%;
+  position: fixed;
+  top:0;
+  width: 100%;
 `;
 
 export const NavbarBrand = styled.div`
