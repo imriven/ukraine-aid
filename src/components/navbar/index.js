@@ -7,7 +7,7 @@ export default function Navigation() {
       <Navbar>
         <NavbarBrand>Aid Ukraine</NavbarBrand>
         <Pulse>
-          <a href="https://www.paypal.com">
+          <a href="http://paypal.me/NDanylchenko">
             <Button>Donate</Button>
           </a>
         </Pulse>
