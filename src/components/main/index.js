@@ -89,7 +89,7 @@ export default function Main() {
               <br />
               <br />
               If you have these items on hand or have purchased these items
-              please bring your donation to:
+              please bring or send your donation to:
               <CenterAddress>
                 Leasing Office
                 <br/>
