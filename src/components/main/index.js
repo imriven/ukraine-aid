@@ -92,14 +92,13 @@ export default function Main() {
               If you have these items on hand or have purchased these items
               please bring or send your donation to:
               <CenterAddress>
-                Leasing Office
+                Karen
                 <br />
                 Attn: Ukraine Aid
                 <br />
-                Everett at 11000
+                2404 137th PL SE
                 <br />
-                16th Ave SE <br />
-                Everett, WA 98208
+                Mill Creek WA 98012
               </CenterAddress>
               If you would like to purchase and send these items you can do so
               though this <br />
