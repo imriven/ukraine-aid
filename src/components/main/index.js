@@ -92,7 +92,7 @@ export default function Main() {
               If you have these items on hand or have purchased these items
               please bring or send your donation to:
               <CenterAddress>
-                Karen
+                Karen Lowe
                 <br />
                 Attn: Ukraine Aid
                 <br />
